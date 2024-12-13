@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Network connectivity</string>
+    <string name="current_network_status">Current network status</string>
+    <string name="current_connection_speed">Current connection speed</string>
+    <string name="upload_speed">Upload speed</string>
+    <string name="download_speed">Download speed</string>
+    <string name="error">Whoops! Something unexpected has happened</string>
+    <string name="connected">Connected</string>
+    <string name="connectivity_not_available">Connectivity Not Available</string>
+    <string name="maybe_connected">Maybe Connected</string>
+</resources>
