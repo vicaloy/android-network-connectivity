@@ -10,3 +10,8 @@ This is an Android application that checks the network status and provide real-t
 - Display the current network status (e.g., connected, disconnected) in a user-friendly format within the app's UI.
 - When there is an active internet connection, retrieve additional information about the connection speed (e.g., download/upload speeds) using appropriate APIs or libraries.
 - Implement error handling for scenarios where there is no internet connection or if retrieving speed information fails.
+
+
+
+https://github.com/user-attachments/assets/42602505-4f63-40b6-b712-31dde3259d5e
+
